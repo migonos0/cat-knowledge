@@ -12,7 +12,9 @@
     "@radix-ui/react-toast": "^0.1.1",
     "@tauri-apps/api": "^1.0.0-rc.4",
     "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react-dom": "^18.0.0",
+    "react-router-dom": "6",
+    "zustand": "^4.0.0-rc.1"
   },
   "devDependencies": {
     "@tauri-apps/cli": "^1.0.0-rc.9",
